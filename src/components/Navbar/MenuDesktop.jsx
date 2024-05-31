@@ -6,22 +6,22 @@ import CustomLink from "../ui/CustomLink";
 
 const MenuDesktop = () => {
   return (
-    <nav className='w-full  justify-between hidden md:flex'>
-      <ul className='flex mx-auto'>
+    <nav className="w-full  justify-between hidden md:flex">
+      <ul className="flex gap-7 mx-auto">
         {data["section-nav"].links.map(({ text, href, isExternal, title }) =>
           isExternal ? (
-            <li key={uuidv4()} className='p-2'>
+            <li key={uuidv4()} className="p-2">
               <CustomLink
                 text={text}
                 href={href}
                 animated
-                rel='noreferrer'
-                target='_blank'
+                rel="noreferrer"
+                target="_blank"
                 title={title}
               />
             </li>
           ) : (
-            <li key={uuidv4()} className='p-2'>
+            <li key={uuidv4()} className="p-2">
               <CustomLink text={text} href={href} animated title={title} />
             </li>
           )
@@ -29,12 +29,12 @@ const MenuDesktop = () => {
       </ul>
       {/* btn */}
 
-      <CustomBtn variant='primary'>
+      <CustomBtn variant="primary">
         <a
           href={data["section-nav"].button.href}
           title={data["section-nav"].button.title}
-          rel='noreferrer'
-          target='_blank'
+          rel="noreferrer"
+          target="_blank"
         >
           {data["section-nav"].button.text}
         </a>

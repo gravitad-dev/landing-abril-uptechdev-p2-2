@@ -1,8 +1,8 @@
 {
   "logo": {
     "url": {
-      "blue": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714162996/q2u0ufogfidtofrblyad.svg",
-      "white": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714162996/hf7vm8ksh8natkpzmltp.svg"
+      "blue": "https://res.cloudinary.com/db60chvpz/image/upload/v1717136838/e9uj6yoone5kbfoal15d.png",
+      "white": "https://res.cloudinary.com/db60chvpz/image/upload/v1717136838/jwbxr17vdyqabwp60gf8.png"
     },
     "alt": "logo image softcraf"
   },
@@ -64,12 +64,12 @@
     }
   },
   "section-one": {
-    "title": "Discover the Power of SoftCraft's",
-    "highlightedText": "Ai Platform",
-    "desc": "Experience the versatility and ease of use with SoftCraft's cutting-edge AI-driven platform. Unlock the potential of AI technology for software creation.",
+    "title": "Discover the power of AI and Automatic",
+    "highlightedText": "Content Creation",
+    "desc": "At uptechdev, we are pioneers in the realm of AI and automated content creation. Our team is composed of tech enthusiasts, creative thinkers, and AI experts dedicated to pushing the boundaries of technology. We combine cutting-edge artificial intelligence with unparalleled creativity to deliver solutions that transform the way businesses operate and communicate.",
     "button": {
-      "text": "Get 14 days free trial",
-      "title": "Get 14 days free trial",
+      "text": "Discover More",
+      "title": "Discover More",
       "href": "#"
     },
     "images": {
@@ -124,7 +124,7 @@
     "info_employess": [
       {
         "name": "Lara Sanchez",
-        "role": "CTO, ABC Company",
+        "role": "CTO, Uptechdev",
         "picture": {
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714407638/Employees/pm3cejl6vix8m15jwamw.webp",
           "alt": "Lara sanchez smiling",
@@ -132,8 +132,8 @@
         }
       },
       {
-        "name": "Lila Doe",
-        "role": "CTO, ABC Company",
+        "name": "Jonas Doevck",
+        "role": "CTO, Uptechdev",
         "picture": {
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714407638/Employees/jgvykmy0ezarxsv5q7dy.webp",
           "alt": "Lara sanchez smiling",
@@ -142,12 +142,13 @@
       }
     ],
     "info_texts": [
-      "Unleash your creativity and bring ideas to life.",
-      "Accelerate your development process and save valuable time.",
-      "Deliver exceptional user experiences with AI-powered solutions."
+      "AI Content Generator: Create high-quality articles and blogs automatically.",
+      "Automated Social Media Manager: Schedule posts, analyze performance, and get data-driven suggestions.",
+      "AI SEO Optimizer: Enhance search engine rankings with AI-driven content optimization.",
+      "Data Analyzer: Gain insights from data with AI-powered trend analysis."
     ],
-    "title": "Unlock the Power of AI with SoftCraft's Cutting-Edge Features",
-    "desc": "Experience seamless software creation with SoftCraft's innovative technology. Our AI-driven platform simplifies complex processes, empowering you to bring your ideas to life.",
+    "title": "Our Mission",
+    "desc": "Our mission is to revolutionize content creation and automation through advanced AI technologies. We strive to empower businesses by providing innovative tools and solutions that enhance productivity, creativity, and efficiency. By simplifying complex processes, we aim to make high-quality content accessible to all.",
     "button": {
       "text": "See more",
       "title": "See more",
@@ -186,7 +187,7 @@
   },
   "section-six": {
     "img": {
-      "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714503948/bdnmi3wiedhwig8lo2p5.jpg",
+      "url": "https://res.cloudinary.com/db60chvpz/image/upload/v1717134948/u6w3yt2mb6sciedopbxd.webp",
       "alt": "alt of image",
       "title": "title of image"
     },
@@ -196,24 +197,24 @@
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714504893/benefits-icons/tl6krlk6fxcb08x1dqb6.svg",
           "alt": "icon svg"
         },
-        "title": "Unlock Powerful Features Today",
-        "desc": "Discover the core functionalities of SoftCraft and unleash the potential of AI-driven software creation."
+        "title": "AI-Powered Content Creation:",
+        "desc": "Generate high-quality, engaging content tailored to your brand’s voice and audience."
       },
       {
         "icon": {
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714504893/benefits-icons/giygcwhkuk4qfpbfbb8w.svg",
           "alt": "icon svg"
         },
-        "title": "Streamline Your Workflow",
-        "desc": "Experience seamless integration and innovative iconography that simplifies software development."
+        "title": "Automated Social Media Management:",
+        "desc": "Streamline your social media strategy with AI-driven scheduling, posting, and analytics."
       },
       {
         "icon": {
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714504893/benefits-icons/s2v6hxglane7sz4y5jve.svg",
           "alt": "icon svg"
         },
-        "title": "Unleash Your Creativity",
-        "desc": "Embrace dynamic graphics and unleash your creativity with SoftCraft's AI-powered platform."
+        "title": "SEO Optimization:",
+        "desc": "Enhance your online presence with content optimized for search engines using the latest AI techniques."
       }
     ]
   },
@@ -223,67 +224,48 @@
       "alt": "alt of image",
       "title": "title of image"
     },
-    "title": "Unlock the Power of AI-Driven Software Creation with SoftCraft",
-    "desc": "SoftCraft is a cutting-edge platform that combines the latest advancements in artificial intelligence with user-friendly features, making it easy for businesses of all sizes to develop innovative software solutions. With SoftCraft, you can bring your ideas to life and stay ahead in the rapidly evolving tech landscape."
+    "title": "Those Who Have Trusted Us",
+    "desc": "Numerous businesses have already experienced the transformative power of our AI solutions. From small startups to large enterprises, our clients come from various industries and trust us to enhance their content and automation strategies. Join the growing list of satisfied clients who have partnered with uptechdev to revolutionize their business processes."
   },
   "section-eight": {
     "title": "Reviews",
     "reviews": [
       {
-        "name": "Jessie Doe",
-        "role": "CEO, ABC Company",
+        "name": "Laura S.",
+        "role": "Marketing Manager",
         "picture": {
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714407638/Employees/pm3cejl6vix8m15jwamw.webp",
           "alt": "alt of picture",
           "title": "titleo of picture"
         },
-        "comment": "SoftCraft has revolutionized our software development process. Their AI-driven platform has significantly increased our productivity and efficiency, allowing us to deliver high-quality products to our clients in record time."
+        "comment": "uptechdev has completely transformed the way we handle content creation. Their AI Content Generator is incredibly efficient, producing high-quality articles that align perfectly with our brand voice. We've seen a significant boost in our online engagement since using their services. Highly recommended!"
       },
       {
-        "name": "John Doe",
-        "role": "CEO, ABC Company",
+        "name": "Mark T.",
+        "role": "Social Media Strategist",
         "picture": {
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714407638/Employees/jgvykmy0ezarxsv5q7dy.webp",
           "alt": "alt of picture",
           "title": "titleo of picture"
         },
-        "comment": "SoftCraft has revolutionized our software development process. Their AI-driven platform has significantly increased our productivity and efficiency, allowing us to deliver high-quality products to our clients in record time."
+        "comment": "The Automated Social Media Manager from uptechdev has saved us countless hours. It schedules our posts seamlessly and provides valuable insights that help us optimize our strategy. The integration of AI into our social media efforts has been a game-changer."
       },
       {
-        "name": "Lila Doe",
-        "role": "CEO, ABC Company",
+        "name": "Sophia R.",
+        "role": "Content Director",
         "picture": {
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714407638/Employees/pm3cejl6vix8m15jwamw.webp",
           "alt": "alt of picture",
           "title": "titleo of picture"
         },
-        "comment": "SoftCraft has revolutionized our software development process. Their AI-driven platform has significantly increased our productivity and efficiency, allowing us to deliver high-quality products to our clients in record time."
-      },
-      {
-        "name": "John Doe",
-        "role": "CEO, ABC Company",
-        "picture": {
-          "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714407638/Employees/jgvykmy0ezarxsv5q7dy.webp",
-          "alt": "alt of picture",
-          "title": "titleo of picture"
-        },
-        "comment": "SoftCraft has revolutionized our software development process. Their AI-driven platform has significantly increased our productivity and efficiency, allowing us to deliver high-quality products to our clients in record time."
-      },
-      {
-        "name": "John Doe",
-        "role": "CEO, ABC Company",
-        "picture": {
-          "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714407638/Employees/jgvykmy0ezarxsv5q7dy.webp",
-          "alt": "alt of picture",
-          "title": "titleo of picture"
-        },
-        "comment": "SoftCraft has revolutionized our software development process. Their AI-driven platform has significantly increased our productivity and efficiency, allowing us to deliver high-quality products to our clients in record time."
+        "comment": "We've been using uptechdev's AI SEO Optimizer for a few months now, and the results have been outstanding. Our website traffic has increased, and our content ranks higher on search engines. The tool is user-friendly and delivers real, measurable improvements."
       }
+      
     ]
   },
   "section-nine": {
-    "title": "Create AI-driven software effortlessly",
-    "desc": "Unlock the power of AI technology to revolutionize your software development process.",
+    "title": "Ready to revolutionize your content creation and digital strategy?",
+    "desc": "Discover the power of AI with uptechdev. Get Started Today and transform your business with cutting-edge automation solutions!",
     "button": {
       "text": "Contact",
       "title": "title of button",
@@ -296,7 +278,7 @@
     }
   },
   "section-footer": {
-    "text": "Unlock the power of AI technology to revolutionize your software development process.",
+    "text": "Empowering Innovation, Automating Excellence",
     "copyright": "SoftCraft. All rights reserved",
     "footer_link": {
       "text": "Contact",

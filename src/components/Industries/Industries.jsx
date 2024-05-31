@@ -6,18 +6,18 @@ const Industries = () => {
 
   return (
     <div>
-      <h2 className='subtitle font-playfair text-center' id='industries'>
+      <h2 className="subtitle font-playfair text-center" id="industries">
         {title}
       </h2>
-      <div className=' mt-10 flex flex-wrap gap-10 justify-center lg:justify-between'>
+      <div className=" mt-10 flex flex-wrap gap-10 justify-center lg:justify-between">
         {industries.map(({ url, alt, title }) => (
           <img
             src={url}
             alt={alt}
             title={title}
-            className='
+            className="
             w-[100px]
-          '
+          "
           />
         ))}
       </div>

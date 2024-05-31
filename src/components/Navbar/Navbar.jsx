@@ -17,9 +17,11 @@ const Navbar = () => {
     ${hasScrolled ? "bg-nav" : "bg-transparent"}
    `}
     >
-      <Logo variant='blue' />
+      <div className="mt-5">
+        <Logo variant="blue" />
+      </div>
       <button
-        className='text-2xl cursor-pointer z-[99] text-secondary flex items-center justify-center md:hidden'
+        className="text-2xl cursor-pointer z-[99] text-secondary flex items-center justify-center md:hidden"
         onClick={handleIsOpen}
       >
         {isOpen ? <BsXLg /> : <BsJustify />}
