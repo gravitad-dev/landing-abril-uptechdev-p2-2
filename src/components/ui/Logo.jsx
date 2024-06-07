@@ -5,9 +5,9 @@ const Logo = ({ variant }) => {
   const whiteLogo = data.logo.url.white;
 
   return variant === "blue" ? (
-    <img src={blueLogo} alt={data.logo.alt} width={150} />
+    <img src={blueLogo} alt={data.logo.alt} className="h-[58px]" />
   ) : (
-    <img src={whiteLogo} alt={data.logo.alt} width={150} />
+    <img src={whiteLogo} alt={data.logo.alt} className="h-[58px]" />
   );
 };
 export default Logo;

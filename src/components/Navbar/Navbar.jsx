@@ -17,7 +17,7 @@ const Navbar = () => {
     ${hasScrolled ? "bg-nav" : "bg-transparent"}
    `}
     >
-      <div className="mt-5">
+      <div className="">
         <Logo variant="blue" />
       </div>
       <button
