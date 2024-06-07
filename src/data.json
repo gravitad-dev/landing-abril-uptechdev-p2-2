@@ -1,8 +1,8 @@
 {
   "logo": {
     "url": {
-      "blue": "/public/logo.png",
-      "white": "/public/logo.png"
+      "blue": "assets/logo.png",
+      "white": "assets/logo.png"
     },
     "alt": "logo image softcraf"
   },
