@@ -18,7 +18,9 @@ const Navbar = () => {
    `}
     >
       <div className="">
+        <a href="/">
         <Logo variant="blue" />
+        </a>
       </div>
       <button
         className="text-2xl cursor-pointer z-[99] text-secondary flex items-center justify-center md:hidden"
