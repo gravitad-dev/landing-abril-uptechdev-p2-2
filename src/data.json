@@ -1,8 +1,8 @@
 {
   "logo": {
     "url": {
-      "blue": "https://res.cloudinary.com/db60chvpz/image/upload/v1717136838/e9uj6yoone5kbfoal15d.png",
-      "white": "https://res.cloudinary.com/db60chvpz/image/upload/v1717136838/jwbxr17vdyqabwp60gf8.png"
+      "blue": "assets/logo.png",
+      "white": "assets/logo.png"
     },
     "alt": "logo image softcraf"
   },
@@ -53,7 +53,7 @@
       {
         "text": "Blog",
         "title": "Blog",
-        "href": "https://midu.dev/",
+        "href": "https://blog.uptechdev.xyz",
         "isExternal": true
       }
     ],
@@ -167,7 +167,7 @@
     "projects": [
       {
         "title": "Title of the first object",
-        "desc": "SoftCraft's innovative platform simplifies the software creation process, making it accessible to all users.",
+        "desc": "Uptechdev's innovative platform simplifies the software creation process, making it accessible to all users.",
         "img": {
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714502922/projects/pc7mdhj07qzwvzgslyct.webp",
           "alt": "Alternate text for image 1",
@@ -176,7 +176,7 @@
       },
       {
         "title": "Title of the second object",
-        "desc": "SoftCraft's innovative platform simplifies the software creation process, making it accessible to all users.",
+        "desc": "Uptechdev's innovative platform simplifies the software creation process, making it accessible to all users.",
         "img": {
           "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714502922/projects/ynp8fu1htujb00fih7ht.webp",
           "alt": "Alternate text for image 2",
@@ -260,7 +260,6 @@
         },
         "comment": "Hemos estado utilizando AI SEO Optimizer de uptechdev durante algunos meses y los resultados han sido excelentes. El tráfico de nuestro sitio web ha aumentado y nuestro contenido ocupa un lugar más alto en los motores de búsqueda. La herramienta es fácil de usar y ofrece mejoras reales y mensurables."
       }
-      
     ]
   },
   "section-nine": {
@@ -279,7 +278,7 @@
   },
   "section-footer": {
     "text": "Empowering Innovation, Automating Excellence",
-    "copyright": "SoftCraft. All rights reserved",
+    "copyright": "Uptechdev. All rights reserved",
     "footer_link": {
       "text": "Contact",
       "title": "Contact",
