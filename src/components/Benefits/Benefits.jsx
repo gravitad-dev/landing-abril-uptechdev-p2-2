@@ -7,7 +7,7 @@ const Benefits = () => {
   return (
     <div>
       <h1 className="flex justify-center py-7 font-semibold text-4xl font-playfair">
-        Our Services
+        Nuestros Servicios
       </h1>
 
       <div

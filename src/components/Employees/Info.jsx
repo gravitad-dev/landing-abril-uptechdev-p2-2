@@ -30,7 +30,7 @@ const Info = () => {
       {/* list */}
       <div className="bg-light p-4 mt-10 rounded-md  hidden lg:flex  flex-col gap-4">
         <h1 className="text-2xl font-bold p-2 font-playfair">
-          Key Tools of uptechdev
+          Herramientas clave de uptechdev
         </h1>
         {info_texts.map((item) => (
           <div

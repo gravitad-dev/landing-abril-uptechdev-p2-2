@@ -18,28 +18,30 @@ const Projects = () => {
           />
           <div className="py-10 text-center bg-light">
             <h4 className="mb-2 text-[18px] md:text-[20px] font-semibold">
-              What Makes Us Different
+              Qué nos diferencia
             </h4>
             <ul className="text-start mx-5">
               <li>
-                <span className="font-semibold">Innovation at Core:</span> We
-                are constantly exploring new AI technologies to bring the most
-                advanced solutions to our clients.
+                <span className="font-semibold">Innovación en el núcleo:</span>{" "}
+                exploramos constantemente nuevas tecnologías de inteligencia
+                artificial para brindar las soluciones más avanzadas a nuestros
+                clientes.
               </li>
               <li>
-                <span className="font-semibold">Customization:</span> Our
-                services are tailored to fit the specific needs of each client,
-                ensuring personalized and effective solutions.
+                <span className="font-semibold">Personalización:</span> Nuestros
+                servicios se adaptan a las necesidades específicas de cada
+                cliente, garantizando soluciones personalizadas y efectivas.
               </li>
               <li>
-                <span className="font-semibold">Quality Assurance:</span> We
-                adhere to the highest standards of quality, ensuring that every
-                piece of content we create is of the utmost excellence.
+                <span className="font-semibold">Garantía de calidad:</span> Nos
+                adherimos a los más altos estándares de calidad, asegurando que
+                cada contenido que creamos sea de la máxima excelencia.
               </li>
               <li>
-                <span className="font-semibold">Expert Team:</span> Our team
-                comprises experts in AI, content creation, and digital
-                marketing, providing a comprehensive approach to automation.
+                <span className="font-semibold">Equipo de expertos:</span>{" "}
+                nuestro equipo está compuesto por expertos en inteligencia
+                artificial, creación de contenido y marketing digital, lo que
+                brinda un enfoque integral para la automatización.
               </li>
             </ul>
           </div>
@@ -54,28 +56,33 @@ const Projects = () => {
           />
           <div className="py-10 text-center bg-light">
             <h4 className="mb-2 text-[18px] md:text-[20px] font-semibold">
-              Why Trust Us
+              ¿Por qué confiar en nosotros?
             </h4>
             <ul className="text-start mx-5">
               <li>
-                <span className="font-semibold">Proven Expertise:</span> With
-                years of experience in AI and content creation, we have a track
-                record of delivering exceptional results.
+                <span className="font-semibold">Experiencia comprobada:</span>{" "}
+                con años de experiencia en inteligencia artificial y creación de
+                contenido, tenemos un historial de brindar resultados
+                excepcionales.
               </li>
               <li>
-                <span className="font-semibold">Client-Centric Approach:</span>{" "}
-                We prioritize our client{"'"}s needs and work closely with them
-                to achieve their goals.
+                <span className="font-semibold">
+                  Enfoque centrado en el cliente:
+                </span>{" "}
+                priorizamos las necesidades de nuestros clientes y trabajamos
+                estrechamente con ellos para lograr sus objetivos.
               </li>
               <li>
-                <span className="font-semibold">Transparency:</span> We maintain
-                open communication throughout our projects, ensuring you are
-                informed and involved every step of the way.
+                <span className="font-semibold">Transparencia:</span> Mantenemos
+                una comunicación abierta a lo largo de nuestros proyectos,
+                asegurando que usted esté informado e involucrado en cada paso
+                del camino.
               </li>
               <li>
-                <span className="font-semibold">Continuous Improvement:</span>{" "}
-                We are committed to continuous learning and improvement, staying
-                ahead of industry trends to offer the best solutions.
+                <span className="font-semibold">Mejora Continua:</span> Estamos
+                comprometidos con el aprendizaje y la mejora continua,
+                manteniéndonos a la vanguardia de las tendencias de la industria
+                para ofrecer las mejores soluciones.
               </li>
             </ul>
           </div>
