@@ -58,9 +58,9 @@
       }
     ],
     "button": {
-      "text": "Contacto",
-      "title": "Contact",
-      "href": "mailto:4N5z6@example.com"
+      "text": "Contáctanos",
+      "title": "Contáctanos",
+      "href": "https://blog.uptechdev.xyz/contacto/"
     }
   },
   "section-one": {
@@ -70,7 +70,7 @@
     "button": {
       "text": "Descubre más",
       "title": "Descubre más",
-      "href": "#"
+      "href": "https://blog.uptechdev.xyz"
     },
     "images": {
       "back": {
@@ -152,7 +152,7 @@
     "button": {
       "text": "Ver más",
       "title": "See more",
-      "href": "#"
+      "href": "https://blog.uptechdev.xyz"
     }
   },
   "section-four": {
@@ -268,7 +268,7 @@
     "button": {
       "text": "Contáctanos",
       "title": "title of button",
-      "href": "mailto:4N5z6@example.com"
+      "href": "https://blog.uptechdev.xyz/contacto/"
     },
     "img": {
       "url": "https://res.cloudinary.com/dmln0fwl5/image/upload/v1714516376/xhc8i6rea3cwbsphzzdb.svg",
@@ -280,9 +280,9 @@
     "text": "Empowering Innovation, Automating Excellence",
     "copyright": "Uptechdev. All rights reserved",
     "footer_link": {
-      "text": "Contact",
-      "title": "Contact",
-      "href": "mailto:4N5z6@example.com"
+      "text": "Contáctanos",
+      "title": "Contáctanos",
+      "href": "https://blog.uptechdev.xyz/contacto/"
     },
     "other_links": [
       {
