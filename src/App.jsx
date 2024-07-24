@@ -47,7 +47,9 @@ function App() {
         </section>
       </Layout>
 
-      <SocialButtons />
+      <div className="bg-white mt-32">
+        <SocialButtons />
+      </div>
       <Footer />
       <ScrollToTop />
     </main>
